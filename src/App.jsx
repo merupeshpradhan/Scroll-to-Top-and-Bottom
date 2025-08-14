@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       {/* Scroll to top and bottom */}
-      <ScrollToTopAndBottom />
+      <ScrollToTopAndBottom /> 
     </div>
   );
 }
